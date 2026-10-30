@@ -4,7 +4,7 @@ A collection of my machine learning projects — both educational experiments an
 
 ## 📂 Repository Structure
 
-- **`practice/`** — practical and educational ML projects. This folder may contain notebooks, scripts, and small applications demonstrating various machine learning algorithms and techniques.
+- **`practice/`** — educational ML projects. This folder may contain notebooks, scripts, and small applications demonstrating various machine learning algorithms and techniques.
 
 ## 🎯 Goals
 
